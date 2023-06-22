@@ -1,15 +1,15 @@
 function validarFormulario() {
     // Obtener los valores ingresados en el formulario
-    var nombre = document.getElementById("nombre").value;
-    var correo = document.getElementById("correo").value;
+    var nombre = document.getElementById("username").value;
+    var correo = document.getElementById("password").value;
   
     // Realizar las validaciones
-    if (nombre === "") {
+    if (nombre === "marcial") {
       alert("Por favor, ingresa tu nombre.");
       return false;
     }
   
-    if (correo === "") {
+    if (correo === "1234") {
       alert("Por favor, ingresa tu correo electrónico.");
       return false;
     }

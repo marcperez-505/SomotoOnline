@@ -35,9 +35,9 @@
   h1 {
     text-align: center;
     padding: 10px 0 10px 0;
-    color: #148F77;
+    color: #F39C12;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 35px;
   }
   
   
@@ -47,7 +47,7 @@
     display: flex;
     flex-direction: column;
     padding: 0 15px 0 15px;
-    border: 2px solid rgba(255, 255, 255, 0.5);
+    border: 2px solid rgba(255, 255, 255, 0.10);
     border-radius: 20px;
     backdrop-filter: blur(15px);
     transform: 0.3s;
@@ -58,11 +58,12 @@
     height: 50px;
     width: 400px;
     padding-bottom: 20px;
+    margin-top: 30px;
   }
   
   label  {
     display: block;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-size: 20px;
     color: white;
     font-weight: bold;
