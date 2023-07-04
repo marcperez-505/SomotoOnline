@@ -24,7 +24,7 @@
     height: 120vh;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(rgba(194, 238, 240, 0.25),rgba(4, 87, 15, 0.35)),url(/img/somoto.webp);
+    background-image: linear-gradient(rgba(194, 238, 240, 0.25),rgba(4, 87, 15, 0.35)),url(/img/fondo-somoto.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
